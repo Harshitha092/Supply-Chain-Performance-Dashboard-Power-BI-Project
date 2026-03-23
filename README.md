@@ -184,12 +184,11 @@ The focus was not just on visualization, but on delivering decision-oriented ins
 
 ---
 
-## 👩‍💻 Author
-Harshitha Salian
+## 👩‍💻 Author  
+**Harshitha Salian**  
+Analytics Professional | SQL · Power BI · Excel · Python  
+📍 Dubai, UAE | [LinkedIn](https://www.linkedin.com/in/salianharshitha/) | [GitHub](https://github.com/Harshitha092)
 
-*Aspiring Data Analyst skilled in SQL, Excel, Power BI & Python*
-
-LinkedIn: https://www.linkedin.com/in/salianharshitha/
 
 ---
 
